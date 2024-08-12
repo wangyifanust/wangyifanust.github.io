@@ -7,5 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-# About Me<br />
-Hi! I am Yifan WANG, a second year student majoring in Data Science and Technology in Hong Kong University of Science and Technology (HKUST). My research interested lies in generative model, especially human motion generation. Fortunately, I am supervised by [Chi-Keung Tang](https://cse.hkust.edu.hk/admin/people/faculty/profile/cktang) and [Yu-Wing Tai](https://yuwingtai.github.io/). 
+# About Me<br/>
+Hi! I am Yifan WANG, a coming third year student majoring in Data Science and Technology in the Hong Kong University of Science and Technology (HKUST). My research interested lies in generative model, especially human motion generation. Fortunately, I am supervised by [Prof.Chi-Keung Tang](https://cse.hkust.edu.hk/admin/people/faculty/profile/cktang) and [Prof.Yu-Wing Tai](https://yuwingtai.github.io/). I am going to enjoy my exchange life in the next fall semester in EPFL and I will do research with [Prof.Alexandre Alahi](https://people.epfl.ch/alexandre.alahi?lang=en) on human motion in EPFL.
+
+# Publications<br/>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+<!--   <div style="width: 30%; margin-right: 20px;">
+    <img src="/images/Cover-FaceDNeRF.gif" style="width: 100%;">
+  </div> -->
+  <div style="width: 80%;">
+    <h3>MotionLLM: Multimodal Motion-Language Learning with Large Language Models</h3>
+    <p><em>Pre-print</em></p>
+    <p>Qi Wu*, Yubo Zhao*, Yifan WANG*, Yu-Wing Tai, Chi-Keung Tang (*equal contribution)</p>
+    <p><a href="https://knoxzhao.github.io/MotionLLM/">project page</a> | <a href="https://arxiv.org/abs/2405.17013">paper</a></p>
+  </div>
+</div>
+
