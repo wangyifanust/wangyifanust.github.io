@@ -19,6 +19,6 @@ Education
 
 Publications
 ======
-  <ul>{% MotionLLM: Multimodal Motion-Language Learning with Large Language Models %}
-    {% https://arxiv.org/abs/2405.17013 %}</ul>
+* [MotionLLM: Multimodal Motion-Language Learning with Large Language Models](https://arxiv.org/abs/2405.17013)
+
   
