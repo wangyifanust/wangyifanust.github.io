@@ -11,54 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* B.S. in the Hong Kong University of Science and Technology(HKUST) (expected to graduate at June, 2026)
+* Bachelor Science of Data Science and Technology, Artificial Intelligence (Top 10th out of the World Subject Ranking on Data Science and Artificial Intelligence) (Top 2rd out of 45 student in the undergraduate program)
+* Exchange in Ecole Polytechnique Federale de Lausanne (EPFL) (August 2024 - Jan 2025)
+* Exchange in UC Berkeley (June 2024 - August 2024)
+* Exchange in Zhiyuan College, Shanghai Jiao Tong University(SJTU) (July 2023)
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
+  <ul>{% MotionLLM: Multimodal Motion-Language Learning with Large Language Models %}
+    {% https://arxiv.org/abs/2405.17013 %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
