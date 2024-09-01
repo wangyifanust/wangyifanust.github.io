@@ -29,5 +29,6 @@ Awards
 ======
 * Dean list for all 4 semesters in HKUST
 * HKUST admission scholarship (4 continuous years, half-tuition scholarship)
+* HKSAR Talent scholarship
 
   
