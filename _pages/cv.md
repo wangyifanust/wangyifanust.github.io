@@ -23,7 +23,7 @@ Education
 
 Publications
 ======
-* [MotionLLM: Multimodal Motion-Language Learning with Large Language Models](https://arxiv.org/abs/2405.17013)
+* [MotionLLM: Multimodal Motion-Language Learning with Large Language Models](https://arxiv.org/abs/2405.17013v2)
 
 Awards
 ======
